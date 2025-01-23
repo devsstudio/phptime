@@ -1,0 +1,19 @@
+{
+    "name": "devs-studio/phptime",
+    "description": "PHP classes for time handling",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "DevsStudio\\Phptime\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Jean Paul Perea",
+            "email": "jeanpaper@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
