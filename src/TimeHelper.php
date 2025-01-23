@@ -6,14 +6,14 @@
  * and open the template in the editor.
  */
 
-namespace US\Helpers;
+namespace Pe\Devs\PhpTime;
 
 /**
  * Description of USTime
  *
  * @author JEANPAPER
  */
-class USTime
+class TimeHelper
 {
 
     const SYSTEM_DATE_FORMAT = 'Y-m-d';
