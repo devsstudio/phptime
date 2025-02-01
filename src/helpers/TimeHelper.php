@@ -6,7 +6,7 @@
  * and open the template in the editor.
  */
 
-namespace Pe\Devs\PhpTime;
+ namespace DevsStudio\Phptime\Helpers;
 
 /**
  * Description of USTime
